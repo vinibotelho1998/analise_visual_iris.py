@@ -52,13 +52,13 @@ Isso irá gerar e exibir os seguintes gráficos:
 ## 📊 Resultados Esperados
 
 ### Gráfico de Dispersão das Pétalas
-![Scatter Plot](https://via.placeholder.com/600x400/3776AB/FFFFFF?text=Scatter+Plot)
+![Image](https://github.com/user-attachments/assets/994d11dd-b701-4946-a820-da179c4f5062)
 
 ### Boxplots das Sépalas
-![Boxplots](https://via.placeholder.com/800x400/2C2D72/FFFFFF?text=Boxplots)
+![Image](https://github.com/user-attachments/assets/b6948598-db0a-4b4d-8f8f-e11a00060027)
 
 ### Mapa de Calor de Correlação
-![Heatmap](https://via.placeholder.com/500x400/3A4246/FFFFFF?text=Correlation+Heatmap)
+![Image](https://github.com/user-attachments/assets/f0071673-d6ff-420d-9b21-ee920cd6b5e9)
 
 ## 🤝 Contribuindo
 
