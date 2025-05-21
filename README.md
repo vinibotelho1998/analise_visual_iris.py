@@ -60,20 +60,7 @@ Isso irá gerar e exibir os seguintes gráficos:
 ### Mapa de Calor de Correlação
 ![Image](https://github.com/user-attachments/assets/f0071673-d6ff-420d-9b21-ee920cd6b5e9)
 
-## 🤝 Contribuindo
 
-Contribuições são o que tornam a comunidade de código aberto um lugar incrível para aprender, inspirar e criar. Qualquer contribuição que você fizer será **muito apreciada**.
-
-1. Faça um Fork do projeto
-2. Crie uma Branch para sua Feature (`git checkout -b feature/FeatureIncrivel`)
-3. Adicione suas mudanças (`git add .`)
-4. Comite suas mudanças (`git commit -m 'Adicionando uma Feature incrível!`)
-5. Faça o Push da Branch (`git push origin feature/FeatureIncrivel`)
-6. Abra um Pull Request
-
-## 📝 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 ## 👨‍💻 Autor
 
@@ -82,12 +69,6 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 - LinkedIn: [@viniciusdb8](https://www.linkedin.com/in/viniciusdb8/)
 - GitHub: [@vinibotelho1998](https://github.com/vinibotelho1998)
 
-## 🙏 Agradecimentos
-
-- [scikit-learn](https://scikit-learn.org/stable/) por disponibilizar o conjunto de dados Iris
-- À comunidade de Ciência de Dados por todo o conhecimento compartilhado
-
----
 
 <div align="center">
   Feito com ❤️ por Vinicius Botelho
